@@ -26,8 +26,6 @@ normalises case and whitespace, so all of the listed variants work.
 | Right               | Right      |
 | Stop                | Stop       |
 
-Short aliases are also accepted by the firmware: `go`, `ahead`, and the
-legacy `forward` all map to the Forward action.
 
 ## Bluetooth Controller (App) Commands
 
@@ -74,8 +72,6 @@ firmware.
 
 ENA and ENB jumpers stay ON the L298N board (full-speed drive).
 
-**Upload tip:** disconnect BOTH the HC-05 TX/RX wires and release the
-mode button before flashing over USB.
 
 ## Tabs
 
