@@ -22,7 +22,7 @@ normalises case and whitespace, so all of the listed variants work.
 |---------------------|------------|
 | Go Ahead            | Forward    |
 | Back / Backward     | Backward   |
-| Left                | Left       |
+| Left Side           | Left       |
 | Right               | Right      |
 | Stop                | Stop       |
 
